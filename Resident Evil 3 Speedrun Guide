@@ -1,0 +1,373 @@
+Resident Evil 3 Grenade Launcher any% Guide
+
+
+1) Mediakite version troubleshooting
+2) Techniques
+3) Footspeed, Free Heals, FAS Locations
+4) Event Route (Learn this first)
+5) Ammo Route
+
+==================================
+Mediakite Version Troubleshooting
+==================================
+The fastest available version of Resident Evil 3 to run is Biohazard 3 Mediakite, which is a Japanese version. For legal reasons, I personally cannot tell you where to find it other than eBay or Amazon, as it is very hard to find.
+
+1) Installation
+
+ＰＬＡＣＥＨＯＬＤＥＲ
+
+2) FPS Issues
+
+FPS Issues are caused by the default option that Biohazard 3 chooses, which is RGB Emulation. Here's how you fix it:
+-Run in compatibility mode for Windows XP.
+-Hit F2 to enter the options menu.
+-Under "Video", Select your primary graphics card driver, but choose the option that doesn't say "RGB Emulation". Change the resolution to 800x600 (「800 x 600　ピクセル」) and choose "Windowed".
+-Under "Etc" turn off "Play Movie", "Texture Adjustment" and turn on "Texture interpolation".
+
+3) Bio3 SRT by Dchaps
+Bio3 SRT is a program written by Dchaps that reads the memory values of Biohazard 3 Mediakite and displays the Health, Boss Health, and In-Game Time. It can be found in the Resources section of Speedrun.com's Resident Evil 3 Page.
+
+4) In-Game Time via Livesplit
+Fatalis wrote a LiveSplit script that reads the In-Game Time for Biohazard 3 Mediakite. It can be found in the Resources section of Speedrun.com's Resident Evil 3 Page. 
+
+==================================
+Techniques
+==================================
+1) Attack Dodge (For 2 Cycle Grave Digger)
+2) Quick Shot (Advanced)
+3) Bite Knockback
+4) No-Bite Shakeoff
+5) Auto-Shove
+
+==================================
+Footspeed note, Free Heals, FAS Locations
+==================================
+
+Keeping your HP above 100 (Caution) is important for learning dodges and maintaining footspeed. Footspeed drops 10% when you are below 101 HP, and your turn radius sharply decreases, which decreases your chances of a successful dodge.
+
+It is 10x better and easier to learn dodges, fail while trying, and heal afterward than it is to blast them out of your way. The reason for this is because you will have to spend time looking for more ammo (when you can incorporate burnable FASes in your inventory to get rid of at any time if they clutter your inventory) and because you will have more real attempts at practicing dodges mid-run. A bite + shove is more effective than a shotgun blast in most situations anyway.
+
+Free Heal #1 - After First Zombie
+Free Heal #2 - After Carlos gives Jill the T-Virus Cure
+
+
+1) Warehouse - https://i.gyazo.com/8798fa2bda12a8b3481690ccec99410a.png
+
+2) STARS Office -
+https://i.gyazo.com/91e5d49a584c13eacaa7a1478e12c5a0.png
+
+3) Newspaper - https://i.gyazo.com/38420e299ebcaa3922a97347b383207c.png
+
+4) Gas Station -
+https://i.gyazo.com/8093aa21ea97a69058c2a473b992bd2b.png
+
+5) Sales Office -
+https://i.gyazo.com/f86012af79f0e3bf0d0a9a677634ff57.png
+
+6) Clock Tower - 
+https://i.gyazo.com/d969f1e8d6cae39b297876d08a46efbe.png
+
+7) Park Shack - https://i.gyazo.com/93233e1569513ba83ac8e417bacb0d8d.png
+
+8) Save Room - https://i.gyazo.com/9abca8c3f120ddf9b974436bda50549a.png
+
+9) Water Puzzle - 
+
+10) Radio Tower (before Final Nemesis) - https://i.gyazo.com/ddebabf921ac043579a6c10c3e0914f7.png
+
+==================================
+Event Route + Puzzle Solutions
+==================================
+
+This is the first routing that you want to familiarize yourself with.
+This is the fastest way through all of the game's events!
+
+For the "Live Selection" events, which selections you MUST select are listed here. This is for those who cannot read Japanese (which is probably 99% of people who pick up Japanese versions for speedrunning anyway).
+
+----------Uptown----------
+1) Warehouse Key
+2) Lighter Oil
+3) Lighter
+4) Combine Lighter Oil/Lighter, Use
+5) Nemesis Live Event; Choose either option. If you choose Option 1 and Quick Turn toward the door, it's faster.
+
+----------RPD----------
+1) STARS Key
+(0131, 4011, 0513, 4312)
+2) Lockpick
+3) Try to Exit, get teleported to "4"
+4) Grenade Launcher (50%)
+5) Blue Jewel
+
+----------To Cable Car----------
+1) Fire Hook
+2) Use Fire Hook; Let the Live Event time itself out. Nemesis will punch the air.
+3) Rusted Crank
+4) Green Jewel
+
+----------To Fuse---------
+1) Wrench
+2) Machine Oil
+3) Bronze Book
+4) Bronze Compass
+5) Battery
+6) Fuse (Red, Blue, Blue, Blue) （赤、青、青、青）
+6a) *Grenade Launcher (Red, Red, Red, Blue) (赤、赤、赤、青）
+7) Live Event - Choose the 非常口に向かう or "Use the Emergency Exit" command; First Option.
+
+*When Nemesis spawns, re-enter to get the Grenade Launcher after "7"
+
+----------To Sales Office----------
+1) Fire Hose
+2) Codes: SAFSPRIN (66%), ADRAVIL (22%), AQUACURE (11%)
+3) Oil Additive
+
+----------To Clock Tower----------
+1) Power Cable
+2) Live Event - Mash Confirm. Don't even bother.
+3) Grave Digger
+4) Live Event - Mash Confirm. Jump out of the train.
+
+----------Clock Tower----------
+1) Winder Key
+2) Bezel Key
+3) Music Box Puzzle - From version 1.1 onward (Version 1.0 is PS1 Only) the solution is always "Up Down Up Up Down Up".*
+
+*Translated Commands: 
+-上 (Up)
+-下 (Down)
+-次 (Next)
+-もどる (Previous)
+-やめる (Stop)
+-演奏 (Play)
+
+4) Live Event - Mash Confirm ("Use the Light")
+5) Clock Puzzle -
+
+11:00 - Amber, Obsidian, Crystal
+10:00 - Amber, Crystal, Obsidian
+9:00 - Obsidian, Amber, Crystal
+7:00 - Obsidian, Crystal, Amber
+6:00 - Crystal, Amber, Obsidian
+5:00 - Crystal, Obsidian, Amber
+
+6) Gold Cog
+7) Silver Cog
+8) Combine the two, Equip Grenade Launcher + Freeze
+9) Clock Tower Nemesis
+
+----------Carlos----------
+1) Tape Recorder
+2) Go 4F FIRST.
+3) Sickroom Key
+4) Get Puzzle Solution from Doctor-
+
+If the slip says:
+-531; fastest, SE Side
+-253; second fastest, SW Side
+-325; second slowest, NE Side
+-104; slowest, NW Side
+
+5) Vaccine Base
+6) Go to B3
+7) Medium Base
+8) Redirect Power
+9) Use Medium Base
+10) Synthesis: I, III, 下 (Down), A.
+11) Vaccine Medium
+12) Combine Vaccine Base/Medium and Use on Jill
+
+-----------Park----------
+1) Gate Key
+2) Cabin Key
+3) Gear Puzzle (You're on your own)
+4) Dead Factory Key
+5) Grave Digger
+6) Push Him Off (Mash Confirm)
+
+----------Dead Factory----------
+1) Factory Key
+2) Steam Puzzle (video)
+3) MO Disc
+4) Water Sample
+5) Water Puzzle -
+
+The notation is read like this; look at the first section bordered by green dividers, and note where the height of the two columns within. For instance, this is Medium-Empty: https://i.gyazo.com/c99e475e5bca19befdc3a4ab493cd673.png
+
+-High-Empty (R1R1L2)
+-High-Low (L1 L2 R2)
+-Medium-Empty (L4 R2 L2)
+-Medium-Low (R1 R3 L4)
+
+6) Combine AAA with Grenades, Combine Flame Rounds with Grenade Launcher, Equip Grenade Launcher, use MO Disk
+7) Garbage Nemesis
+8) Card Key
+9) Final Nemesis
+
+==================================
+Ammo Route (Grenade Any%)
+==================================
+
+It is fastest to use the Grenade Launcher against bosses. Always. The Magnum has a separate ammo pickup route and is a "for fun" category. Not for beginners.
+
+If you do not get the Grenade Launcher in the RPD, do NOT pick up the Magnum unless you are going to run Magnum Any%. The Grenade Launcher spawns in the Power Station (behind one of the voltage doors) if it does not spawn in the RPD. Getting the Grenade Launcher at the power station WILL, however, lose you around 40 seconds. You do not need to reset if you don't get Grenade Launcher in the RPD.
+
+While the gunpowder, ammo, and green herb spawns are random, it is important to note the following: if you do NOT find a specific gunpowder in one place, the same gunpowder spawn WILL be placed elsewhere. This is only important for Nemesis% and Magnum Any%.
+
+For Grenade Any% however, the goal is to only use guaranteed static pickups.
+
+ONLY use bullets on Bosses, as they are the only enemies that require you to kill them to pass event triggers.
+
+1) Grenade Launcher (6 Grenades)
+2) Flame Rounds from Carlos (6 Flame)
+3) Freeze Rounds from Carlos (6 Freeze)
+4) Use 6 Freeze, 5 Flame on Nemesis @ Clock Tower
+5) Grenades on corpse in Spooder Hallway
+6) Pick up B, B, A before Grave Digger, when getting/using the pipe. Combine A + B to make C, combine C with B and mix with the Reload Tool to get 10 Acid Rounds. Exclusively for Grave Digger.
+7) Grenades on shelf before Grave Digger
+8) AAA in Dead Factory, combine with 6 Grenades to get 18 Flame
+
+==================================
+Dodges, Enemy Patterns, Boss Strategies
+==================================
+
+Note: If it's just running through the room and the enemies are WAY out of the way, then there is no reason to record a video. Just run through the stupid room. Kappa
+
+----------Uptown----------
+1) Basement (RECORDED)
+2) Front of Bar Jack (RECORDED)
+3) Back of Bar Jack (RECORDED)
+4) To RPD (RECORDED)
+5) Nemesis 1 (RECORDED)
+
+----------RPD ----------
+1a) Good Marvin Pattern (STRAIGHT SHOT)
+1b) Bad Marvin Pattern, Long Route (RECORDED)
+1c) Bad Marvin Pattern, Floor Zombie Route (RECORDED)
+2a) Safe; Behind Female Zombie. (RECORDED)
+2b) Risky; In front of Female Zombie. (RECORDED)
+3a) Statue Room, Clustered Around Stairs (RECORDED)
+3b) Statue Room, Clustered Around Statue (RECORDED)
+4a) Statue Room Exit, Clustered Around Stairs (RECORDED)
+4b) Statue Room Exit, Clustered Around Statue (RECORDED)
+5a) Nemesis 2, Good Marvin Pattern (STRAIGHT SHOT)
+5b) Nemesis 2, Bad Marvin Pattern, Short Route (RECORDED)
+5c) Nemesis 2, Bad Marvin Pattern, Long Route (RECORDED)
+
+----------To Cable Car----------
+1) Post Office Dogs (RECORDED)
+2a) Drain Deimos Easy (RECORDED)
+2b) Drain Deimos Fast (RECORDED)
+3) Behind Grill 13 (RECORDED)
+4) Nemesis @ Restaurant (RECORDED)
+5) Nemesis @ Arcade Shops (RECORDED)
+6a) Walking Nemesis Outside Gate (RECORDED)
+6b) Running Nemesis Outside Gate (RECORDED)
+7a) Walking Nemesis @ Newspaper (RECORDED)
+7b) Running Nemesis @ Newspaper (RECORDED)
+8a) Sleeping Zombies Toward Cable Car (RECORDED)
+8b) Awakened Zombies Toward Cable Car (RECORDED)
+9a) Zombies @ Cable Car (RECORDED)
+9b) Dogs @ Cable Car (RECORDED)
+
+----------To Fuse----------
+1a) Zombies @ Cable Car (RECORDED)
+1b) Dogs @ Cable Car (RECORDED)
+2a) Sleeping Zombies From Cable Car (RECORDED)
+2b) Awake Zombies From Cable Car (RECORDED)
+3) Getting Bronze Book (RECORDED)
+4a) Arcade Shops 1 (RECORDED)
+4b) Arcade Shops 2 (RECORDED)
+4c) Arcade Shops 3 (RECORDED)
+5) Crows @ Arcade Shops (RECORDED)
+6a) Dogs @ Arcade Shops, Hard/Fast (RECORDED)
+6b) Dogs @ Arcade Shops, Easy/Slow (RECORDED)
+7) Using Bronze Compass, Getting Battery (RECORDED)
+8) Using Battery (RECORDED)
+9a) Pukers (RECORDED)
+9b) No Pukers (RECORDED)
+10) Nemesis 4, Grenade Launcher Pickup (RECORDED)
+
+----------To Sales Office----------
+1) Zombies @ Post Office (RECORDED)
+2) Dogs, to Fire Hose (RECORDED)
+3a) Drain Deimos, Dogs (RECORDED)
+3b) Drain Deimos, Zombies (RECORDED)
+4) Brain Suckers (RECORDED)
+
+----------To Clock Tower----------
+1) Sales Office Escape 1 (RECORDED)
+2) Sales Office Escape 2 (RECORDED)
+3) Drain Deimos (RECORDED)
+4a) Dogs, Drain Deimos (RECORDED)
+4b) Zombies, Drain Deimos (RECORDED)
+4c) Uptown Nemesis Escape w/ Zombies (RECORDED)
+5) Post Office Zombies (RECORDED)
+6) Arcade Shop Zombies (RECORDED)
+7) Nemesis 5 (RECORDED)
+8) Grave Digger (RECORDED)
+
+----------Clock Tower----------
+1) Surprise Zombies! (RECORDED)
+2) SPOODERS! (RECORDED)
+3) SPOODERS AGAIN! (RECORDED)
+4) MOAR SPOODERS! (RECORDED)
+5) RNGESUS PLS NO MORE! (RECORDED)
+6) Clock Tower Nemesis Fight (RECORDED)
+
+----------Carlos----------
+1) Dining Room (RECORDED)
+2a) MOAR SPOODERS! (RECORDED)
+2b) Drain Deimos (RECORDED)
+3) Zombies Outside Hospital, Hunter (RECORDED)
+4) RNG Zombies on 4F, just shoot them. (NO VIDEO)
+5) RNG Zombies in B3 (RECORDED)
+6a) Hunters in B3 (Fast) (RECORDED)
+6b) Hunters in B3 (Safe) (RECORDED)
+7) Hunter Gammas (RECORDED)
+8) Hunters in B3 after puzzle (RECORDED)
+9a) RNG Zombies in B3, Dynamite (NO VIDEO NECESSARY)
+9b) RNG Hunters in B3 (RECORDED)
+10a) RNG Zombies on 1F (RECORDED)
+10b) RNG Hunters on 1F (RECORDED)
+11a) RNGESUS PLS NO MOAR! (RECORDED)
+11b) Drain Deimos (RECORDED)
+12) Nemesis (RECORDED)
+
+----------Park----------
+1) Outside Hospital (RECORDED)
+2a) Hunters (RECORDED)
+2b) Zombies (RECORDED)
+3a) Hunters (RECORDED)
+3b) Dogs (RECORDED)
+4a) Hunters (Return Trip) (RECORDED)
+4b) Zombies (Return Trip) (RECORDED)
+5a) Grave Digger, 2 Cycle (No Quick Shot) (RECORDED)
+5b) Grave Digger, 1 Cycle (Quick Shot)
+6a) Worms
+6b) Spiders (RECORDED)
+7) Zombies (RECORDED)
+8a) Hunters (RECORDED)
+8b) Zombies (SEE 2B)
+9a) Hunters (to Dead Factory) (RECORDED)
+9b) Dogs (to Dead Factory) (RECORDED)
+
+----------Dead Factory----------
+1) MO Disc Rush (RECORDED)
+2a) Drain Deimos (RECORDED)
+2b) Hunters/Zombies (in the pool) (NO VIDEO NECESSARY)
+3a) Hunters (RECORDED)
+3b) Worms (RECORDED)
+4a) Hunters, Return Trip (RECORDED)
+4b) Worms, Return Trip (RECORDED)
+5a) Drain Deimos, Return Trip (RECORDED)
+5b) Hunters, Return Trip
+5c) Zombies, Return Trip (RECORDED)
+6) Lone Zombie, to Nemesis (RECORDED)
+7a) Garbage Nemesis (RECORDED)
+7b) Garbage Nemesis, Backup Strats (RECORDED)
+8) Muteki Dash (RECORDED)
+9) Stair Pukers (RECORDED)
+10) Zombie Minefield (RECORDED)
+11a) Final Nemesis, Goda Strat
+11b) Final Nemesis, Front of Cannon Strat (RECORDED)
